@@ -1,0 +1,10 @@
+C:\Users\Ovidiu\source\repos\PictureBoxExample\bin\Debug\PictureBoxExample.exe.config
+C:\Users\Ovidiu\source\repos\PictureBoxExample\bin\Debug\PictureBoxExample.exe
+C:\Users\Ovidiu\source\repos\PictureBoxExample\bin\Debug\PictureBoxExample.pdb
+C:\Users\Ovidiu\source\repos\PictureBoxExample\obj\Debug\PictureBoxExample.csprojAssemblyReference.cache
+C:\Users\Ovidiu\source\repos\PictureBoxExample\obj\Debug\PictureBoxExample.Form1.resources
+C:\Users\Ovidiu\source\repos\PictureBoxExample\obj\Debug\PictureBoxExample.Properties.Resources.resources
+C:\Users\Ovidiu\source\repos\PictureBoxExample\obj\Debug\PictureBoxExample.csproj.GenerateResource.cache
+C:\Users\Ovidiu\source\repos\PictureBoxExample\obj\Debug\PictureBoxExample.csproj.CoreCompileInputs.cache
+C:\Users\Ovidiu\source\repos\PictureBoxExample\obj\Debug\PictureBoxExample.exe
+C:\Users\Ovidiu\source\repos\PictureBoxExample\obj\Debug\PictureBoxExample.pdb
