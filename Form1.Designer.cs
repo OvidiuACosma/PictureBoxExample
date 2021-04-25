@@ -37,16 +37,16 @@ namespace PictureBoxExample
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Location = new System.Drawing.Point(78, 36);
+            this.pictureBox1.Location = new System.Drawing.Point(360, 66);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(1065, 859);
+            this.pictureBox1.Size = new System.Drawing.Size(337, 446);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 1;
             this.pictureBox1.TabStop = false;
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(621, 934);
+            this.button1.Location = new System.Drawing.Point(541, 551);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(205, 72);
             this.button1.TabIndex = 2;
@@ -56,7 +56,7 @@ namespace PictureBoxExample
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(392, 934);
+            this.button2.Location = new System.Drawing.Point(312, 551);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(205, 72);
             this.button2.TabIndex = 3;
@@ -68,7 +68,7 @@ namespace PictureBoxExample
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(16F, 31F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1212, 1035);
+            this.ClientSize = new System.Drawing.Size(1051, 668);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.pictureBox1);
